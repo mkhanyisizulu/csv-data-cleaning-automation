@@ -1,6 +1,4 @@
 # RPA Order Processing Automation
-![Automation Flow](screenshots/flow_overview_1.png)
-![Automation Flow](screenshots/flow_overview_2.png)
 
 Automated data cleaning and processing pipeline built with **Microsoft Power Automate Desktop**.
 
@@ -101,3 +99,6 @@ It highlights how RPA can streamline data preparation workflows and reduce manua
 ## Author
 
 Data Analytics & Automation Portfolio Project
+
+![Automation Flow](screenshots/flow_overview_1.png)
+![Automation Flow](screenshots/flow_overview_2.png)
