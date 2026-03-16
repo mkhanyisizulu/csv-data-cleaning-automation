@@ -1,0 +1,21 @@
+﻿order_id,customer_id,customer_name,email,order_date,country,product,amount,status
+1001,501,John Smith,johnsmith@email.com,2024-01-05,South Africa,Laptop,15000,Completed
+1002,502,Mary Johnson,mary.j@email.com,05-01-2024,South Africa,Phone,8000,Completed
+1003,503,Peter Brown,peterbrown@email,2024-01-06,South Africa,Tablet,6000,Pending
+1004,504,Sarah Lee,,06-01-2024,SouthAfrica,Laptop,15000,Completed
+1005,505,David King,david.king@email.com,2024-01-07,South Africa,Monitor,-2000,Completed
+1006,506,Anna White,anna.white@email.com,2024-01-07,South Africa,Keyboard,1200,Cancelled
+1007,507,Chris Green,chris.green@email.com,2024-13-01,South Africa,Mouse,500,Completed
+1008,508,Emma Black,emma.black@email.com,2024-01-08,South Africa,Laptop,15000,Completed
+1009,509,Michael Gray,michael.gray@email.com,2024-01-09,South Africa,Phone,8000,Complete
+1010,510,Linda Adams,linda.adams@email.com,2024-01-10,South Africa,Tablet,6000,Completed
+1011,511,James Hall,james.hall@email.com,2024-01-10,South Africa,Monitor,abc,Completed
+1012,512,Olivia Scott,olivia.scott@email.com,2024-01-11,S.Africa,Laptop,15000,Pending
+1013,513,Noah Walker,noah.walker@email.com,2024-01-11,South Africa,Laptop,15000,Completed
+1014,514,Ava Young,ava.young@email.com,2024-01-12,South Africa,Phone,8000,Cancelled
+1015,515,William King,william.king@email.com,2024-01-12,South Africa,Tablet,6000,Completed
+1016,516,Sophia Wright,sophia.wright@email.com,2024-01-12,South Africa,Monitor,6000,Completed
+1017,517,Benjamin Scott,benjamin.scott@email.com,2024-01-13,South Africa,Laptop,15000,Completed
+1018,518,Isabella Moore,isabella.moore@email.com,2024-01-13,South Africa,Phone,8000,Pending
+1019,519,Mason Taylor,mason.taylor@email.com,2024-01-14,South Africa,Keyboard,1200,Completed
+1020,520,Charlotte Harris,charlotte.harris@email.com,14-01-2024,South Africa,Mouse,500,Completed

@@ -1,0 +1,21 @@
+﻿order_id,customer_id,customer_name,email,order_date,country,product,amount,status
+2001,601,Thabo Dlamini,thabo.dlamini@gmail.com,2024-02-02,South Africa,Keyboard,15000,Pending
+2002,602,Daniel Naidoo,daniel.naidoo@gmail.com,2024-02-02,South Africa,Monitor,3500,Completed
+2003,603,Sarah Lee,sarah.lee@gmail.com,2024-02-27,South Africa,Laptop,8000,Completed
+2004,604,Daniel Naidoo,daniel.naidoo@gmail,2024-02-08,South Africa,Keyboard,8000,Pending
+2005,605,Naledi Mokoena,naledi.mokoena@gmail,2024-02-10,South Africa,Mouse,8000,Completed
+2006,606,Daniel Naidoo,,2024-02-04,South Africa,Mouse,15000,Completed
+2007,607,Daniel Naidoo,daniel.naidoo@gmail.com,2024-02-14,South Africa,Monitor,-2000,Cancelled
+2008,608,Thabo Dlamini,thabo.dlamini@gmail.com,2024-02-23,South Africa,Laptop,-2000,Pending
+2009,609,Aisha Patel,aisha.patel@gmail.com,2024-02-15,South Africa,Keyboard,15000,Completed
+2010,610,Aisha Patel,aisha.patel@gmail.com,2024-02-05,South Africa,Monitor,15000,Completed
+2011,611,Aisha Patel,aisha.patel@gmail.com,2024-02-11,South Africa,Mouse,6000,Cancelled
+2012,612,Daniel Naidoo,daniel.naidoo@gmail,2024-02-03,South Africa,Monitor,15000,Completed
+2013,613,Lerato Modise,lerato.modise@gmail.com,2024-02-22,South Africa,Tablet,3500,Pending
+2014,614,John Smith,john.smith@gmail.com,2024-02-20,South Africa,Monitor,15000,Completed
+2015,615,David King,,2024-02-13,South Africa,Laptop,8000,Cancelled
+2016,616,Naledi Mokoena,naledi.mokoena@gmail.com,2024-02-27,South Africa,Keyboard,6000,Cancelled
+2017,617,Thabo Dlamini,thabo.dlamini@gmail.com,2024-02-08,South Africa,Laptop,8000,Completed
+2018,618,Sarah Lee,sarah.lee@gmail,2024-02-27,South Africa,Phone,6000,Pending
+2019,619,John Smith,john.smith@gmail.com,2024-02-20,South Africa,Tablet,8000,Completed
+2020,620,Sipho Ndlovu,sipho.ndlovu@gmail.com,2024-02-28,South Africa,Monitor,3500,Cancelled
